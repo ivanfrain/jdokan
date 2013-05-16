@@ -3,7 +3,7 @@
     <groupId>net.decasdev.dokan</groupId>
     <artifactId>jdokan-samples</artifactId>
     <packaging>jar</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.1-SNAPSHOT</version>
     <name>jDokan samples</name>
 
     <dependencies>
@@ -22,7 +22,7 @@
         <dependency>
             <groupId>net.decasdev.dokan</groupId>
             <artifactId>jdokan</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.1</version>
         </dependency>
             
         <!-- logging -->
